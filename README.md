@@ -1,5 +1,6 @@
 ﻿# Mobile-App-of-Hotel-pack-propositons
 This repository contains the source code for a mobile application that recommends the best trip packs based on the user's budget. The app is designed to help users plan and book affordable travel packages that meet their specific preferences and needs.
+
 **Data Scraping**
 The data scraping component of this repository uses Selenium, a web automation tool, to scrape hotel information from booking websites. The scraper collects data on a range of factors, including:
 
